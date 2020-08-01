@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="412.044" height="462.594" viewBox="0 0 412.044 462.594">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Oval" cx="163.5" cy="163.5" r="163.5" fill="#2f2f2f"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.472" y1="0.364" x2="0.251" y2="1.035" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a5599"/>
+      <stop offset="1" stop-color="#2229b2"/>
+    </linearGradient>
+  </defs>
+  <g id="_03_Features" data-name="03_Features" transform="translate(12.6 491.333) rotate(-108)" opacity="0.277">
+    <g id="Background" transform="translate(0 93)">
+      <g id="Group">
+        <circle id="Oval-2" data-name="Oval" cx="163.5" cy="163.5" r="163.5" fill="#fff"/>
+        <g id="Group-2" data-name="Group" clip-path="url(#clip-path)">
+          <ellipse id="Oval-3" data-name="Oval" cx="104.5" cy="105" rx="104.5" ry="105" transform="translate(127)" fill="#fff"/>
+        </g>
+      </g>
+      <circle id="Oval-4" data-name="Oval" cx="29.5" cy="29.5" r="29.5" transform="translate(327 250)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

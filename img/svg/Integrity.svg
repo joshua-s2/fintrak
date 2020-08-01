@@ -1,0 +1,29 @@
+<svg id="Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.457" height="77.482" viewBox="0 0 75.457 77.482">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="bgicon" d="M60.652,10.232c-18-17.78-33.332-9.694-36,3.852S-2.8,30.335.261,46.335s36.391,6.5,36.391,21,38.537,14,38.537-5S78.652,28.012,60.652,10.232Z" transform="translate(0 0)" fill="rgba(255,255,255,0.2)"/>
+    </clipPath>
+  </defs>
+  <g id="bgicon-2" data-name="bgicon">
+    <path id="bgicon-3" data-name="bgicon" d="M60.652,10.232c-18-17.78-33.332-9.694-36,3.852S-2.8,30.335.261,46.335s36.391,6.5,36.391,21,38.537,14,38.537-5S78.652,28.012,60.652,10.232Z" transform="translate(0 0)" fill="rgba(255,255,255,0.2)"/>
+    <g id="bgicon-4" data-name="bgicon" clip-path="url(#clip-path)">
+      <g id="Color_Blue" data-name="Color/Blue" opacity="0.2">
+        <rect id="Rectangle" width="76" height="78" fill="#3c21fd"/>
+      </g>
+    </g>
+  </g>
+  <g id="icon_home_desktop" data-name="icon/home/desktop" transform="translate(10 11)">
+    <g id="Group_12" data-name="Group 12">
+      <path id="Stroke_1" data-name="Stroke 1" d="M0,56H44V0H0Z" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_3" data-name="Stroke 3" d="M6,28,3,36,0,28V3A3,3,0,0,1,6,3Z" transform="translate(50)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_4" data-name="Stroke 4" d="M0,1H6" transform="translate(50 7.387)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_5" data-name="Stroke 5" d="M0,30V25a9,9,0,0,1,9-9,9,9,0,0,0,9-9V0" transform="translate(10 20)" fill="none" stroke="#3d22fb" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_6" data-name="Stroke 6" d="M0,6,6,0l6,6" transform="translate(22 20)" fill="none" stroke="#3c22fa" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_7" data-name="Stroke 7" d="M8,4A4,4,0,1,1,4,0,4,4,0,0,1,8,4Z" transform="translate(24 6)" fill="none" stroke="#3b21f9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_8" data-name="Stroke 8" d="M0,0,8,8" transform="translate(24 42)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_9" data-name="Stroke 9" d="M8,0,0,8" transform="translate(24 42)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_10" data-name="Stroke 10" d="M0,0,8,8" transform="translate(8 22)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Stroke_11" data-name="Stroke 11" d="M8,0,0,8" transform="translate(8 22)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
